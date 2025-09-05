@@ -50,7 +50,7 @@ export default function App() {
 
     return (
         <div className="App">
-            <h1>진선의 Iodo List!!</h1>
+            <h1>진선의 Todo List!!</h1>
             <div>
                 <input 
                 onChange={handleInputChange}
